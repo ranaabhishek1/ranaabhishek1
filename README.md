@@ -4,9 +4,9 @@
 <h3 align="center">Frontend Web Developer From India</h3>
 <img src="https://irfantariq.com/images/banner.gif" alt="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaabhishek1&label=Profile%20views&color=0e75b6&style=flat" alt="ranaabhishek1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranaabhishek1" alt="ranaabhishek1" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **More About Frontend Development**
 
