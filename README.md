@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)]
 
 <h1 align="center">Hi 👋, I'm Abhishek Rana</h1>
 <h3 align="center">Frontend Web Developer From India</h3>
